@@ -12,7 +12,7 @@ function printLane(integer, array):\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print .
 
 function isWinner(integer, array):\
-&nbsp;&nbsp;if a horse's value is equal to TRACKLENGTH - 1:\
+&nbsp;&nbsp;if a horse's value is equal to TRACKLENGTH:\
 &nbsp;&nbsp;&nbsp;&nbsp;print Horse horseNum wins!!!
 
 main():\
